@@ -113,24 +113,30 @@ footer {
   font-size: 30px;
 }
 
+
+
 .homepage {
   text-align: center;
 }
 
-.about-section {
+.content-container {
 
   padding: 80px 10px;
 }
 
 
- .about-section h1 {
+ .content-container h1 {
     font-size: 40px;
      font-family: "Kanit", sans-serif;
  }
-  .about-section h2 {
+   .content-container h2 {
     font-size: 30px;
     font-weight: lighter;
      font-family: "Kanit", sans-serif;
+ }
+
+ .content {
+margin: 30px;
  }
 
  .btn-info {
