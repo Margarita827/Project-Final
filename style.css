@@ -104,7 +104,7 @@ footer {
   margin-right: 30px;
 }
 footer .facebook-icon:hover {
-    color: rgb(171, 198, 242);
+  color: rgb(171, 198, 242);
 }
 
 .instagram-icon {
@@ -112,45 +112,78 @@ footer .facebook-icon:hover {
   font-size: 40px;
 }
 footer .instagram-icon:hover {
-    color: rgb(225, 157, 193);
+  color: rgb(225, 157, 193);
 }
 
 .github-icon {
-    color: rgb(138, 47, 166);
-    font-size: 40px;
-     margin-left: 30px;
+  color: rgb(138, 47, 166);
+  font-size: 40px;
+  margin-left: 30px;
 }
 footer .github-icon:hover {
-    color: rgb(194, 150, 207);
+  color: rgb(194, 150, 207);
 }
-
 
 .homepage {
   text-align: center;
 }
 
 .content-container {
-
   padding: 80px 10px;
 }
 
+.content-container h1 {
+  font-size: 40px;
+  font-family: "Kanit", sans-serif;
+}
+.content-container h2 {
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: "Kanit", sans-serif;
+}
 
- .content-container h1 {
-    font-size: 40px;
-     font-family: "Kanit", sans-serif;
- }
-   .content-container h2 {
-    font-size: 30px;
-    font-weight: lighter;
-     font-family: "Kanit", sans-serif;
- }
+.content {
+  margin: 30px;
+}
 
- .content {
-margin: 30px;
- }
-
- .btn-info {
-      font-size: 18px;
+.btn-info {
+  font-size: 18px;
   line-height: 30px;
   padding: 10px 20px;
- }
+}
+
+.color-icon1 {
+    color: rgb(245, 185, 1);
+    font-size: 25px;
+}
+
+.color-icon2 {
+    color: rgb(1, 115, 245);
+     font-size: 25px;
+
+}
+
+.color-icon3 {
+    color: rgb(197, 16, 16);
+     font-size: 25px;
+
+}
+
+.folder-icon {
+    color: rgb(247, 226, 156);
+    font-size: 25px;
+}
+
+.display-icon1 {
+    color: rgb(23, 145, 23);
+     font-size: 25px;
+}
+.display-icon2 {
+    color: rgb(79, 235, 108);
+    font-size: 25px;
+}
+.display-icon3 {
+     color: rgb(10, 113, 29);
+    font-size: 25px;
+}
+
